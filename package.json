@@ -1,0 +1,30 @@
+{
+  "name": "aws_sec_group",
+  "version": "1.0.0",
+  "description": "App updates AWS security group to allow access for current machine. Requires AWS cli to be preconfigured.",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/AWS_sec_group_update.git"
+  },
+  "keywords": [
+    "Node.js",
+    "AWS",
+    "CLI",
+    "EC2",
+    "security",
+    "groups"
+  ],
+  "author": "Cliff Crerar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/AWS_sec_group_update/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/AWS_sec_group_update#readme",
+  "dependencies": {
+    "public-ip": "^3.0.0"
+  }
+}

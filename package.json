@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/CliffCrerar/AWS_sec_group_update#readme",
   "dependencies": {
-    "public-ip": "^3.0.0"
+    "public-ip": "^5.0.0"
   }
 }
